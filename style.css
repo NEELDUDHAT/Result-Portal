@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+body {
+    background: url(IMG/a.png);
+    margin: 0px;
+}
+
+.head {
+    font-family: "Trebuchet MS";
+    font-size: 40px;
+    color: white;
+}
+
+.hr {
+    width: 85%;
+    height: 5px;
+    border-radius: 100px;
+    background-color: #FFF;
+}
+
+.subhead {
+    font-family: "Segoe UI";
+    color: #FC0;
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+.labels {
+    font-family: "Segoe UI";
+    color: #FFF;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.fields {
+    font-family: "Segoe UI";
+    font-size: 14px;
+    padding: 2px 5px;
+    color: #9FF;
+    background-color: transparent;
+    border: 1px solid #126062;
+    border-radius: 5px;
+}
+
+.design {
+    background-color: transparent;
+    border: 1px solid #126062;
+    border-radius: 5px;
+    padding: 10px 10px;
+    box-shadow: 0px 0px 40px #000000;
+}
+
+a.link:link {
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-size: 14px;
+    color: #28a3a6;
+}
